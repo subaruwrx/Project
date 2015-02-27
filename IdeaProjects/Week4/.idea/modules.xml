@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADP/ADP.iml" filepath="$PROJECT_DIR$/ADP/ADP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIP/DIP.iml" filepath="$PROJECT_DIR$/DIP/DIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/ISP.iml" filepath="$PROJECT_DIR$/ISP/ISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/LSP.iml" filepath="$PROJECT_DIR$/LSP/LSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/OCP.iml" filepath="$PROJECT_DIR$/OCP/OCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PLK/PLK.iml" filepath="$PROJECT_DIR$/PLK/PLK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPR/SRP.iml" filepath="$PROJECT_DIR$/SPR/SRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4.iml" filepath="$PROJECT_DIR$/Week4.iml" />
+    </modules>
+  </component>
+</project>
