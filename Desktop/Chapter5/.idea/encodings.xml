@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Abstract" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Adapter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bridge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chain of Responsibility" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Command" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Decorator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FLyweight" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Iterator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mediator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Memento" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prototype" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Singleton" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/State" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Strategy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Template Method" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Visitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/builder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/composite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled" charset="UTF-8" />
+  </component>
+</project>

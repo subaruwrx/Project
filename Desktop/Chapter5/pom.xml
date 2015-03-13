@@ -1,0 +1,57 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>za.ac.cput.week5</groupId>
+  <artifactId>design</artifactId>
+  <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Singleton</module>
+        <module>Factory</module>
+        <module>Abstract</module>
+        <module>builder</module>
+        <module>untitled</module>
+        <module>Prototype</module>
+        <module>Adapter</module>
+        <module>composite</module>
+        <module>Proxy</module>
+        <module>FLyweight</module>
+        <module>Facade</module>
+        <module>Facade</module>
+        <module>Facade</module>
+        <module>Facade</module>
+        <module>Iterator</module>
+        <module>Memento</module>
+        <module>Command</module>
+        <module>Strategy</module>
+        <module>Observer</module>
+        <module>State</module>
+        <module>Template Method</module>
+        <module>Bridge</module>
+        <module>Decorator</module>
+        <module>Mediator</module>
+        <module>Mediator</module>
+        <module>Chain of Responsibility</module>
+        <module>Visotor</module>
+        <module>Visitor</module>
+
+
+    </modules>
+    <packaging>pom</packaging>
+
+  <name>design</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
